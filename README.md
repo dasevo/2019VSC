@@ -10,3 +10,5 @@ kauailabs: for windows: https://pdocs.kauailabs.com/navx-mxp/software/roborio-li
            for mac: https://www.kauailabs.com/dist/frc/2019/navx_frc.json -> use this link for online library installation
            
 pathfinder: for all: https://dev.imjac.in/maven/jaci/pathfinder/PathfinderOLD-latest.json -> use this link for online library                       installation
+SPARK MAX libraries: online instalation: https://www.revrobotics.com/content/sw/max/sdk/REVRobotics.json
+                      offline instalation on: http://www.revrobotics.com/sparkmax-software/#java-api
